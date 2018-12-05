@@ -1,0 +1,6 @@
+name: source-isolation
+channels:
+  - conda-forge
+  - defaults
+prefix: /anaconda3/envs/source-isolation
+
